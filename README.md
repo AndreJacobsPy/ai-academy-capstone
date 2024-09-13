@@ -24,7 +24,9 @@ expected to earn $21,000 less than college graduates.
 
 The data we will be using collects information about prior student experience, background
 of students immediate family, demographic information, and basic economic indicators.
-
+Our deliverable will help institutions to know their students better in regard to their
+likely outcome and be able to provide resources to those in need of assistance, to counter 
+high dropout rates.
 
 [^1]: Article about dropout rates [support link](https://research.com/universities-colleges/college-dropout-rates)
 
@@ -48,3 +50,10 @@ Nationality, Gender, Age, and background of parents could make model discriminan
 
 [^2]: Published paper using same data [support link](https://www.mdpi.com/journal/data)
 [^3]: Published paper with other data for prediction [support link](https://link.springer.com/chapter/10.1007/978-3-030-52237-7_11)
+
+## Methods & Results
+
+
+
+## Impact
+
