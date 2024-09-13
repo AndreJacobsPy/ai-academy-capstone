@@ -21,4 +21,11 @@ With around 40% of undergraduate student leaving universities and colleges
 every year[^1], our team believes it is crucial that Higher Education institutions
 do what they can to reverse this trend. 
 
+The data we will be using collects information about prior student experience, background
+of students immediate family, demographic information, and basic economic indicators.
+
+
 [^1]: Article about dropout rates [support link](https://research.com/universities-colleges/college-dropout-rates)
+
+## Prior Research
+
