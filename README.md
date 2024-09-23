@@ -22,6 +22,8 @@ every year[^1], our team believes it is crucial that Higher Education institutio
 do what they can to reverse this trend. On average students who do not graduate are
 expected to earn $21,000 less than college graduates.
 
+![image](https://github.com/user-attachments/assets/c814dd34-a4c6-4116-be24-5ca10fa17e54)
+
 The data we will be using collects information about prior student experience, background
 of students immediate family, demographic information, and basic economic indicators.
 Our deliverable will help institutions to know their students better in regard to their
@@ -38,10 +40,13 @@ feature importance. They found that *Curricular units 2nd sem (approved)* was th
 impactful feature. Their research also showed that Course a student was taking and Tuition
 Fees up to date were relevant to a student's result.
 
+![image](https://github.com/user-attachments/assets/34ebde19-9d00-4cc3-8a61-a1bc5bd29a79)
+
 In a second paper[^3], there was a more predictive focus on Dropout prediction. They used
 Linear Discriminant Analysis for dimensionality reduction, as well as, Random Forest and 
 Support Vector Machines for prediction. Their data included Gender, Age Range, Additional
 Learning Requirements, and Course Credits. This paper used a Binary outcome for dropout.
+
 
 This second paper uses High School data, which could have a different population but, 
 their methods remain relevant. A large challenge that both of these studies neglected was the
@@ -53,7 +58,16 @@ Nationality, Gender, Age, and background of parents could make model discriminan
 
 ## Methods & Results
 
+### Model evaluation and Strategy
+Our strategy to evaluating the problem and create a model was a tree pronged aproach. The team wanted to see 
+how using different models would improve accuracy of prediction as well as decrease our overall evaluation metric. 
+The models we decided to use were desicion tree, random forest and XG Boost
 
+#### Decision Tree
+
+#### XGBoost
+
+#### Random Forest
 
 ## Impact
 
